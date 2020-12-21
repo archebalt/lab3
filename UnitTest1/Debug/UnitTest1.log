@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\папка с++\лаба3_аистд_3сем\лаба3_аистд_3сем\heap.cpp(123): warning C4715: BinaryHeap::Stack::GetTop: значение возвращается не при всех путях выполнения
+D:\папка с++\лаба3_аистд_3сем\лаба3_аистд_3сем\heap.cpp(152): warning C4715: BinaryHeap::bft_iterator::next: значение возвращается не при всех путях выполнения
+  UnitTest1.vcxproj -> D:\папка с++\лаба3_аистд_3сем\Debug\UnitTest1.dll
